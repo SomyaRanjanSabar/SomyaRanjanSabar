@@ -1,16 +1,32 @@
-## Hi there 👋
-
-<!--
-**SomyaRanjanSabar/SomyaRanjanSabar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html>
+<head>
+		<title>
+				file
+		</title>
+</head>
+<center>
+		<p>
+				<h1>
+						<b>
+								<u>
+										<body bgcolor="black"text="blue">
+												<button>
+												<a href="https://chatgpt.com">
+														AI<br>
+														here
+												</a>
+												</button>
+												<br>
+												my name is<br>
+												SomyaRanjanSabar
+										</body>
+								</u>
+						</b>
+				</h1>
+		</p>
+</center>
+<img src="/storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Images/IMG-20240618-WA0011 (1).jpg"
+		width=500
+		length=500
+>
+</html>
