@@ -1,8 +1,5 @@
 <html>
 <head>
-		<title>
-				file
-		</title>
 </head>
 <center>
 		<p>
